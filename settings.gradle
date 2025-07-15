@@ -1,0 +1,5 @@
+include ':app'
+include ':uniplugin_module'
+include ':uniplugin_component'
+include ':uts-toast'
+include ':FB'
